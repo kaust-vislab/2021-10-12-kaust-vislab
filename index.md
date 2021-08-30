@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
 country: "sa"
 language: "en"
-humandate: "23 March 2021"
+humandate: "12 October 2021"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2021-03-23      
-enddate: 2021-03-23        
+startdate: 2021-10-12      
+enddate: 2021-10-12        
 instructor: ["Dr. David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2021-03-23-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2021-10-12-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
